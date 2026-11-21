@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\bin\Debug\net10.0\s4 assingment.exe
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\bin\Debug\net10.0\s4 assingment.deps.json
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\bin\Debug\net10.0\s4 assingment.runtimeconfig.json
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\bin\Debug\net10.0\s4 assingment.runtimeconfig.dev.json
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\bin\Debug\net10.0\s4 assingment.dll
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\bin\Debug\net10.0\s4 assingment.pdb
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assingment.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assingment.AssemblyInfo.cs
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assingment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assingment.dll
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\refint\s4 assingment.dll
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assingment.pdb
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assingment.genruntimeconfig.cache
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\ref\s4 assingment.dll
+C:\Users\user\Desktop\Backend\coding\s4\s4 assingment\obj\Debug\net10.0\s4 assin.39B66D2D.Up2Date
